@@ -1,8 +1,6 @@
 # Netflix Data Analysis using Tableau
 
-![netflix-logo-series](https://user-images.githubusercontent.com/82509629/226191733-8ddf3d21-8747-427d-a46f-0db871067f57.jpg)
-
- 
+ ![NTFLX_CONTINUE_GIF_v6](https://user-images.githubusercontent.com/82509629/229379355-339efa50-8a66-4f95-ae2f-23d7feedc1ea.gif)
 
 ## LINKS: 
 
