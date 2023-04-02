@@ -1,6 +1,8 @@
 # Netflix Data Analysis using Tableau
 
  ![NTFLX_CONTINUE_GIF_v6](https://user-images.githubusercontent.com/82509629/229379355-339efa50-8a66-4f95-ae2f-23d7feedc1ea.gif)
+ 
+  ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=NiteshGautam20.Netflix-Data-Analysis&left_color=darkred&right_color=#000000&left_text=Visitors)
 
 ## LINKS: 
 
